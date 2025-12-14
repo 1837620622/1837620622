@@ -1,85 +1,115 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chuankang%20KK&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=Universal%20Programmer%20%7C%20AI%20%26%20Quant%20Expert&descFontSize=25&descAlignY=65&fontAlignY=35" width="100%" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;I'm+Chuankang+KK;%E4%B8%87%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98;AI+%26+Quant+Developer" alt="Typing SVG" />
+</h1>
 
-  <br/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Quantitative+Analysis+%26+High+Freq+Trading;AI+Agents+%26+DeepSeek+Integration;Full+Stack+Development+(Vue3+%2B+Node);%E4%B8%87%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98+(Universal+Programmer)" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1837620622&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
-</div>
+<p align="center">
+  <a href="http://www.chuankangkk.top"><img src="https://img.shields.io/badge/Website-chuankangkk.top-00d9ff?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="mailto:2040168455@qq.com"><img src="https://img.shields.io/badge/Email-2040168455@qq.com-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/WeChat-1837620622-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=1837620622&style=for-the-badge&color=blueviolet" />
+</p>
 
 <br/>
 
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=1837620622&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00f0ff&title_color=00f0ff&text_color=ffffff&rank_icon=github" height="180" alt="stats" />
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1837620622&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff" height="180" alt="languages" />
-</div>
+<table align="center">
+<tr>
+<td width="50%">
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1837620622&theme=radical&hide_border=true&background=0d1117&ring=ff00cc&fire=ff00cc&currStreakNum=ffffff&currStreakLabel=00f0ff" alt="streak" />
-</div>
+### 🚀 About Me
 
-<br/>
+```yaml
+name: Chuankang KK
+alias: 万能程序员 (Universal Programmer)
+location: China
+focus:
+  - Quantitative Analysis
+  - AI Agents & LLM
+  - Full Stack Development
+  - FinTech Solutions
+current_work:
+  - Gold Price Quant Monitor
+  - DeepSeek AI Integration
+  - Windsurf Tools
+contact:
+  website: www.chuankangkk.top
+  wechat: "1837620622"
+  email: 2040168455@qq.com
+  platforms: [CSDN, 咸鱼, B站]
+```
 
-### 🛠️ Tech Stack Matrix
+</td>
+<td width="50%">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,vue,react,nextjs,nodejs,express,django,flask,fastapi&perline=15&theme=dark" />
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,kubernetes,git,github,linux,vscode,pycharm,idea,android,flutter,dart&perline=15&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+</p>
 
-<br/>
-
-### 💻 Command Center
-
-| **Access Protocol** | **System Description** | **Core Module** |
-|:---:|:---|:---:|
-| 🪙 **[Gold-Quant-AI](https://github.com/1837620622/Gold-Price-Quantitative-Monitoring-System)** | Real-time Gold Price Monitor & Quant Analysis | `DeepSeek AI` `Vue3` |
-| ⚡ **[Winsurf-Bypass](https://github.com/1837620622/winsurf-switch)** | Automated Account Switching System | `Python` `Auto` |
-| 🌐 **[Global-Valuation](https://github.com/1837620622/Overseas-fund-valuation-system)** | Cross-border Fund Valuation Engine | `Node.js` `FinTech` |
-| 🛡️ **[Proxy-Switch](https://github.com/1837620622/chrome-vpn)** | Chrome Proxy & VPN Management Node | `Extension` `Net` |
-
-<br/>
-
-### 📡 Contribution Frequency
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=1837620622&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&hide_border=true" />
-  </a>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Contact%20Uplink&fontSize=30&fontColor=ffffff&desc=CSDN%3A%20%E4%B8%87%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98%20%7C%20WeChat%3A%201837620622&descFontSize=16" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1837620622&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117" height="200" />
+  <img src="https://streak-stats.demolab.com?user=1837620622&theme=tokyonight&hide_border=true&background=0D1117" height="200" />
+</p>
 
-<div align="center">
-  <br/>
-  <a href="http://www.chuankangkk.top">
-    <img src="https://img.shields.io/badge/Link-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white&color=2ea44f" />
-  </a>
-  <a href="mailto:2040168455@qq.com">
-    <img src="https://img.shields.io/badge/Link-Email-red?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
-  </a>
-  <a href="https://blog.csdn.net/">
-    <img src="https://img.shields.io/badge/Link-CSDN-orange?style=for-the-badge&logo=csdn&logoColor=white&color=FC5531" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=1837620622&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,go,rust&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,express,django,flask,fastapi&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,kubernetes,linux,git&theme=dark" />
+</p>
+
+<br/>
+
+## � Activity Monitor
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1837620622&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%" />
+</p>
+
+<br/>
+
+## 💻 Featured Systems
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/1837620622/Gold-Price-Quantitative-Monitoring-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1837620622&repo=Gold-Price-Quantitative-Monitoring-System&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/1837620622/winsurf-switch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1837620622&repo=winsurf-switch&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/1837620622/Overseas-fund-valuation-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1837620622&repo=Overseas-fund-valuation-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/1837620622/chrome-vpn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=1837620622&repo=chrome-vpn&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer" width="100%" />
+</p>
