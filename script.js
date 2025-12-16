@@ -89,6 +89,20 @@ const projects = [
         code: "12",
         tags: ["金融", "AI", "量化"],
         featured: true
+    },
+    { 
+        name: "CK Diviner 占卜师", 
+        desc: "AI驱动的在线占卜预测平台，神秘与科技的完美结合", 
+        url: "https://diviner.chuankangkk.top/", 
+        code: "13",
+        tags: ["AI", "占卜", "预测"]
+    },
+    { 
+        name: "CK 3D 展示", 
+        desc: "炫酷的3D交互展示平台，沉浸式视觉体验", 
+        url: "https://3d.chuankangkk.top/", 
+        code: "14",
+        tags: ["3D", "可视化", "交互"]
     }
 ];
 
