@@ -30,7 +30,22 @@ platforms: [CSDN, 咸鱼, B站]
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1837620622&theme=tokyonight&hide_border=true&background=1a1b27" width="70%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=1837620622&theme=tokyonight&hide_border=true&background=1A1B27" width="70%" />
+  </a>
 </p>
 
 ---
@@ -59,12 +74,22 @@ platforms: [CSDN, 咸鱼, B站]
 
 ### 💻 Featured Projects
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| 🚀 [winsurf-switch](https://github.com/1837620622/winsurf-switch) | Windsurf 账号切换器 - 突破 Claude 4.5 限制 | Python |
-| 🔄 [Windsurf-Switcher-Free](https://github.com/1837620622/Windsurf-Switcher-Free) | Windsurf 账户切换插件 - 完全本地化 | TypeScript |
-| 🛡️ [stripe-email](https://github.com/1837620622/stripe-email) | Stripe 邮箱风控检测系统 | Python |
-| 🖼️ [ck-img](https://github.com/1837620622/ck-img) | CK 图床 - Cloudflare 图片托管 | JavaScript |
+<p align="center">
+  <a href="https://github.com/1837620622/winsurf-switch">
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=winsurf-switch&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </a>
+  <a href="https://github.com/1837620622/Windsurf-Switcher-Free">
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=Windsurf-Switcher-Free&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/1837620622/stripe-email">
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=stripe-email&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </a>
+  <a href="https://github.com/1837620622/ck-img">
+    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=ck-img&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
+  </a>
+</p>
 
 ---
 
