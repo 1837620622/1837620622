@@ -43,9 +43,7 @@ platforms: [CSDN, 咸鱼, B站]
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=1837620622&theme=tokyonight&hide_border=true&background=1A1B27" width="70%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=1837620622&theme=tokyonight&hide_border=true&background=1A1B27" width="70%" />
 </p>
 
 ---
