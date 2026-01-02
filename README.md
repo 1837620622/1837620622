@@ -30,11 +30,6 @@ platforms: [CSDN, 咸鱼, B站]
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=1837620622&theme=tokyonight&hide_border=true&background=1a1b27" width="70%" />
 </p>
 
