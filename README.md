@@ -42,10 +42,6 @@ platforms: [CSDN, 咸鱼, B站]
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1s-projects.vercel.app/?user=1837620622&theme=tokyonight&hide_border=true&background=1A1B27" width="70%" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
