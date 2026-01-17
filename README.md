@@ -60,14 +60,8 @@ motto: "技术可以让生活更美好"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8b5cf6&title_color=06b6d4" />
-    <img src="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8b5cf6&title_color=06b6d4" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" />
-    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" width="49%" />
-  </picture>
+  <img src="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8b5cf6&title_color=06b6d4" width="49%" />
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" width="40%" />
 </p>
 
 ---
