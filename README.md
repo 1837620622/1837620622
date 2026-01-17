@@ -1,92 +1,130 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Chuankang+KK!;%E4%B8%87%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98;AI+%26+Quant+Developer" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="http://www.chuankangkk.top"><img src="https://img.shields.io/badge/Website-chuankangkk.top-00d9ff?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="mailto:2040168455@qq.com"><img src="https://img.shields.io/badge/Email-2040168455-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/WeChat-1837620622-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=1837620622&style=for-the-badge&color=blueviolet" />
-</p>
+# 🎨 CK Studio - 个人主页
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=CK+Studio;Creative+Developer;Full+Stack+%26+AI" alt="Typing SVG" />
+</a>
+
+[![Website](https://img.shields.io/badge/🌐_Live_Demo-chuankangkk.top-8b5cf6?style=for-the-badge)](http://www.chuankangkk.top)
+[![GitHub](https://img.shields.io/badge/GitHub-1837620622-181717?style=for-the-badge&logo=github)](https://github.com/1837620622)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## ✨ 项目特色
 
-```yaml
-name: Chuankang KK
-alias: 万能程序员 (Universal Programmer)
-location: China
-focus: [Quantitative Analysis, AI Agents, Full Stack, FinTech]
-current_work: [Gold Price Quant Monitor, DeepSeek AI, Windsurf Tools]
-contact: {website: www.chuankangkk.top, wechat: 1837620622, email: 2040168455@qq.com}
-platforms: [CSDN, 咸鱼, B站]
+一个现代化的个人主页，采用 **UI Pro Max** 设计规范打造，具有以下特色：
+
+| 特性 | 描述 |
+|------|------|
+| 🌌 **极光背景** | 四层动态极光渐变效果，紫色、青色、蓝色、粉色交织 |
+| 💎 **Glassmorphism** | 玻璃拟态卡片设计，毛玻璃模糊效果 |
+| ✨ **流光边框** | 悬停时显示流动的渐变光效边框 |
+| 🎯 **微交互** | 丰富的悬停动画和过渡效果 |
+| 📱 **响应式** | 完美适配桌面端和移动端 |
+| 🖱️ **鼠标跟随** | 自定义光标跟随效果 |
+
+---
+
+## 🛠️ 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+- **HTML5** - 语义化结构
+- **CSS3** - 现代样式与动画
+- **JavaScript** - 交互逻辑
+- **Google Fonts** - Space Grotesk + JetBrains Mono
+
+---
+
+## 🎨 设计系统
+
+### 配色方案
+
+```css
+/* 主色调 */
+--gradient-primary: linear-gradient(135deg, #8b5cf6, #06b6d4);
+--gradient-secondary: linear-gradient(135deg, #a855f7, #3b82f6, #06b6d4);
+
+/* 光晕效果 */
+--glow-purple: rgba(139, 92, 246, 0.3);
+--glow-cyan: rgba(6, 182, 212, 0.3);
+```
+
+### 字体搭配
+
+- **标题字体**: Space Grotesk (300-700)
+- **代码字体**: JetBrains Mono
+
+---
+
+## 📂 项目结构
+
+```
+传康主页项目/
+├── index.html      # 主页面
+├── style.css       # 样式文件 (2000+ 行)
+├── script.js       # 交互脚本
+└── README.md       # 说明文档
 ```
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 快速开始
+
+### 本地运行
+
+```bash
+# 克隆仓库
+git clone https://github.com/1837620622/ckstudio.git
+
+# 进入目录
+cd ckstudio
+
+# 使用任意HTTP服务器运行
+python3 -m http.server 8080
+# 或
+npx serve
+```
+
+### 在线访问
+
+🔗 **[www.chuankangkk.top](http://www.chuankangkk.top)**
+
+---
+
+## 📱 页面预览
+
+### 功能模块
+
+- 🏠 **Hero** - 主视觉区，含代码块装饰
+- 📦 **Works** - 14个精选项目展示
+- 👤 **About** - 个人信息卡片
+- 📞 **Contact** - 联系方式（微信/邮箱/B站/GitHub）
+- 🦶 **Footer** - 品牌区 + 导航 + 社交图标
+
+---
+
+## 📞 联系方式
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </picture>
+  <a href="mailto:2040168455@qq.com"><img src="https://img.shields.io/badge/Email-2040168455@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/WeChat-1837620622-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/B站/咸鱼-万能程序员-00AEEC?style=for-the-badge&logo=bilibili&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📄 License
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,go,rust&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,express,django,flask,fastapi&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,kubernetes,linux,git&theme=dark" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1837620622&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%" />
-</p>
-
----
-
-### 💻 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/1837620622/winsurf-switch">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=winsurf-switch&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-  <a href="https://github.com/1837620622/Windsurf-Switcher-Free">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=Windsurf-Switcher-Free&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/1837620622/stripe-email">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=stripe-email&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-  <a href="https://github.com/1837620622/ck-img">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=ck-img&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-</p>
+MIT License © 2025 [Chuankang KK](https://github.com/1837620622)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=80&section=footer" width="100%" />
 </p>
