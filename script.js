@@ -1,13 +1,23 @@
 /* ===== 传康KK Studio 脚本 ===== */
 
+// ===== 项目分类数据 =====
+const projectCategories = {
+    entertainment: { name: "娱乐", icon: "🎮" },
+    tools: { name: "工具", icon: "🛠️" },
+    finance: { name: "金融", icon: "💰" },
+    ai: { name: "AI智能", icon: "🤖" }
+};
+
 // ===== 项目数据 =====
 const projects = [
+    // ===== 娱乐类 =====
     { 
         name: "CKTV 传康播放器", 
         desc: "在线视频播放平台，支持电影、剧集、综艺分类浏览，豆瓣热门推荐", 
         url: "https://tv.chuankangkk.top/", 
         code: "01",
         tags: ["视频", "影视"],
+        category: "entertainment",
         featured: true
     },
     { 
@@ -15,124 +25,201 @@ const projects = [
         desc: "在线音乐播放器，支持多音源切换，歌词同步显示", 
         url: "https://ckmusic.chuankangkk.top/", 
         code: "02",
-        tags: ["音乐", "播放器"]
+        tags: ["音乐", "播放器"],
+        category: "entertainment"
     },
     { 
-        name: "CK 图床", 
-        desc: "免费图片/视频托管服务，基于Cloudflare构建", 
-        url: "https://ck-img.chuankangkk.top/", 
+        name: "传康云游戏平台", 
+        desc: "80+款在线小游戏，涵盖益智、动作、射击等多种类型", 
+        url: "https://game.chuankangkk.top/", 
         code: "03",
-        tags: ["图床", "存储"]
-    },
-    { 
-        name: "小米运动刷步数", 
-        desc: "智能运动数据管理工具，支持Zepp API", 
-        url: "https://sport.chuankangkk.top/", 
-        code: "04",
-        tags: ["运动", "工具"]
-    },
-    { 
-        name: "传康KKAPI", 
-        desc: "稳定、快速、免费的API接口服务平台，收录271+个实用接口", 
-        url: "https://api.chuankangkk.top/", 
-        code: "05",
-        tags: ["API", "接口", "免费"],
+        tags: ["游戏", "在线"],
+        category: "entertainment",
         featured: true
     },
     { 
         name: "传康烟花秀", 
         desc: "精美的在线烟花动画效果，沉浸式视听体验", 
         url: "https://yanhua.chuankangkk.top/", 
+        code: "04",
+        tags: ["烟花", "Canvas"],
+        category: "entertainment"
+    },
+    { 
+        name: "CK 3D 展示", 
+        desc: "炫酷的3D交互展示平台，沉浸式视觉体验", 
+        url: "https://3d.chuankangkk.top/", 
+        code: "05",
+        tags: ["3D", "可视化", "交互"],
+        category: "entertainment"
+    },
+    
+    // ===== 工具类 =====
+    { 
+        name: "传康KKAPI", 
+        desc: "稳定、快速、免费的API接口服务平台，收录271+个实用接口", 
+        url: "https://api.chuankangkk.top/", 
         code: "06",
-        tags: ["烟花", "Canvas"]
+        tags: ["API", "接口", "免费"],
+        category: "tools",
+        featured: true
+    },
+    { 
+        name: "CK 图床", 
+        desc: "免费图片/视频托管服务，基于Cloudflare构建", 
+        url: "https://ck-img.chuankangkk.top/", 
+        code: "07",
+        tags: ["图床", "存储"],
+        category: "tools"
+    },
+    { 
+        name: "小米运动刷步数", 
+        desc: "智能运动数据管理工具，支持Zepp API", 
+        url: "https://sport.chuankangkk.top/", 
+        code: "08",
+        tags: ["运动", "工具"],
+        category: "tools"
     },
     { 
         name: "睡眠助手", 
         desc: "白噪音助眠应用，30+精选声音，定时关闭", 
         url: "https://sleep-3s3.pages.dev/", 
-        code: "07",
-        tags: ["白噪音", "助眠"]
-    },
-    { 
-        name: "CET6听力预测", 
-        desc: "AI驱动的六级听力预测系统，9年历史数据分析", 
-        url: "https://cet6.chuankangkk.top/", 
-        code: "08",
-        tags: ["六级", "AI预测"]
+        code: "09",
+        tags: ["白噪音", "助眠"],
+        category: "tools"
     },
     { 
         name: "ProxyPool 代理池", 
         desc: "高质量免费代理池，45000+代理IP", 
         url: "https://proxy.chuankangkk.top/", 
-        code: "09",
-        tags: ["代理", "工具"]
-    },
-    { 
-        name: "海外基金估值", 
-        desc: "实时海外基金估值查询，数据分析可视化", 
-        url: "https://fund.chuankangkk.top/", 
         code: "10",
-        tags: ["基金", "估值"]
+        tags: ["代理", "工具"],
+        category: "tools"
     },
     { 
-        name: "传康云游戏平台", 
-        desc: "80+款在线小游戏，涵盖益智、动作、射击等多种类型", 
-        url: "https://game.chuankangkk.top/", 
+        name: "IP检测工具", 
+        desc: "全球IP地址检测与归属地查询，支持IPv4/IPv6双栈检测", 
+        url: "https://ip-check.chuankangkk.top/", 
         code: "11",
-        tags: ["游戏", "在线"],
+        tags: ["IP检测", "网络"],
+        category: "tools",
         featured: true
     },
+    
+    // ===== 金融类 =====
     { 
         name: "黄金价格检测系统", 
         desc: "AI量化分析黄金价格，实时行情监控，DeepSeek驱动", 
         url: "https://gold.chuankangkk.top/", 
         code: "12",
         tags: ["金融", "AI", "量化"],
+        category: "finance",
         featured: true
+    },
+    { 
+        name: "海外基金估值", 
+        desc: "实时海外基金估值查询，数据分析可视化", 
+        url: "https://fund.chuankangkk.top/", 
+        code: "13",
+        tags: ["基金", "估值"],
+        category: "finance"
+    },
+    { 
+        name: "中国基金数据", 
+        desc: "国内基金实时数据查询与分析，净值追踪与涨跌预测", 
+        url: "https://fund-cn.chuankangkk.top/", 
+        code: "14",
+        tags: ["基金", "数据分析"],
+        category: "finance",
+        featured: true
+    },
+    
+    // ===== AI智能类 =====
+    { 
+        name: "CET6听力预测", 
+        desc: "AI驱动的六级听力预测系统，9年历史数据分析", 
+        url: "https://cet6.chuankangkk.top/", 
+        code: "15",
+        tags: ["六级", "AI预测"],
+        category: "ai"
     },
     { 
         name: "CK Diviner 占卜师", 
         desc: "AI驱动的在线占卜预测平台，神秘与科技的完美结合", 
         url: "https://diviner.chuankangkk.top/", 
-        code: "13",
-        tags: ["AI", "占卜", "预测"]
+        code: "16",
+        tags: ["AI", "占卜", "预测"],
+        category: "ai"
     },
     { 
-        name: "CK 3D 展示", 
-        desc: "炫酷的3D交互展示平台，沉浸式视觉体验", 
-        url: "https://3d.chuankangkk.top/", 
-        code: "14",
-        tags: ["3D", "可视化", "交互"]
+        name: "Trump-X 情绪分析", 
+        desc: "基于AI的特朗普社交媒体情绪分析与市场影响预测", 
+        url: "https://trump-x.chuankangkk.top/", 
+        code: "17",
+        tags: ["AI", "情绪分析", "社交"],
+        category: "ai",
+        featured: true
     }
 ];
 
-// ===== 渲染项目卡片 =====
+// ===== 渲染项目卡片（支持分类） =====
 function renderProjects() {
     const gridContainer = document.getElementById('projectGrid');
     if (!gridContainer) return;
 
+    // 按分类分组项目
+    const groupedProjects = {};
     projects.forEach(proj => {
-        const card = document.createElement('a');
-        card.href = proj.url;
-        card.className = 'card' + (proj.featured ? ' card-featured' : '');
-        card.target = '_blank';
+        const cat = proj.category || 'other';
+        if (!groupedProjects[cat]) {
+            groupedProjects[cat] = [];
+        }
+        groupedProjects[cat].push(proj);
+    });
+
+    // 分类渲染顺序
+    const categoryOrder = ['entertainment', 'tools', 'finance', 'ai'];
+    
+    categoryOrder.forEach(catKey => {
+        const catProjects = groupedProjects[catKey];
+        if (!catProjects || catProjects.length === 0) return;
         
-        const tagsHtml = proj.tags.map(tag => `<span>${tag}</span>`).join('');
+        const catInfo = projectCategories[catKey];
         
-        card.innerHTML = `
-            <div class="card-top">
-                <div class="card-number">// ${proj.code}</div>
-                <div class="card-title">${proj.name}</div>
-                <div class="card-desc">${proj.desc}</div>
-                <div class="card-tags">${tagsHtml}</div>
-            </div>
-            <div class="card-bottom">
-                ${proj.featured ? '<span class="card-badge">FEATURED</span>' : '<span></span>'}
-                <span class="card-arrow">↗</span>
-            </div>
+        // 创建分类标题
+        const categoryHeader = document.createElement('div');
+        categoryHeader.className = 'category-header';
+        categoryHeader.innerHTML = `
+            <span class="category-icon">${catInfo.icon}</span>
+            <span class="category-name">${catInfo.name}</span>
+            <span class="category-count">(${catProjects.length})</span>
         `;
+        gridContainer.appendChild(categoryHeader);
         
-        gridContainer.appendChild(card);
+        // 渲染该分类下的项目
+        catProjects.forEach(proj => {
+            const card = document.createElement('a');
+            card.href = proj.url;
+            card.className = 'card' + (proj.featured ? ' card-featured' : '');
+            card.target = '_blank';
+            
+            const tagsHtml = proj.tags.map(tag => `<span>${tag}</span>`).join('');
+            
+            card.innerHTML = `
+                <div class="card-top">
+                    <div class="card-number">// ${proj.code}</div>
+                    <div class="card-title">${proj.name}</div>
+                    <div class="card-desc">${proj.desc}</div>
+                    <div class="card-tags">${tagsHtml}</div>
+                </div>
+                <div class="card-bottom">
+                    ${proj.featured ? '<span class="card-badge">FEATURED</span>' : '<span></span>'}
+                    <span class="card-arrow">↗</span>
+                </div>
+            `;
+            
+            gridContainer.appendChild(card);
+        });
     });
 }
 
