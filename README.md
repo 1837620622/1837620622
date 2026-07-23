@@ -4,11 +4,10 @@
   - github-readme-stats.zohan.tech       → stats / langs / pin
   - streak-stats.demolab.com             → streak
   - readme-typing-svg.demolab.com        → typing header
-  - github-readme-activity-graph.vercel.app → activity graph
-  - github-profile-summary-cards.vercel.app → summary cards
   - skillicons.dev                       → stack icons
   - img.shields.io / komarev.com         → badges
-  Dead (do NOT use): vercel stats app, trophy, snake, demolab activity-graph
+  Dead / rate-limited (do NOT use — camo caches the red ERROR page):
+  vercel stats app, trophy, snake, activity-graph, summary-cards
 -->
 
 <div align="center">
@@ -67,12 +66,11 @@ motto: 技术可以让生活更美好
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1837620622&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F0FF&line=A371F7&point=ffffff&area=true&area_color=00F0FF" alt="activity"/>
+  <sub>Contribution Activity · last 6 months</sub>
+  <br/>
+  <img src="https://ghchart.rshah.org/00F0FF/1837620622" alt="contribution-chart" width="720"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1837620622&theme=tokyonight" alt="summary" width="720"/>
-</div>
 
 ---
 
@@ -100,9 +98,7 @@ motto: 技术可以让生活更美好
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=github" width="22" align="center"/> Featured Projects · by ⭐
-
-> 只展示**原创仓库**（不含 fork），按 Stars 降序。
+### <img src="https://skillicons.dev/icons?i=github" width="22" align="center"/> Featured Projects
 
 <div align="center">
 
@@ -142,21 +138,21 @@ motto: 技术可以让生活更美好
 
 </div>
 
-| # | Project | Stars | One-liner |
-|--:|---------|------:|-----------|
-| 1 | [cloudflare-bypass-2026](https://github.com/1837620622/cloudflare-bypass-2026) | **401** | Cloudflare Turnstile bypass toolkit |
-| 2 | [chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) | **66** | Session ↔ 9 种认证格式 N×N 双向互转 |
-| 3 | [windsurf-account-manager-releases](https://github.com/1837620622/windsurf-account-manager-releases) | **63** | Windsurf multi-account desktop app |
-| 4 | [cto-new-openai-proxy](https://github.com/1837620622/cto-new-openai-proxy) | **36** | OpenAI / Anthropic compatible proxy |
-| 5 | [winsurf-switch](https://github.com/1837620622/winsurf-switch) | **31** | Windsurf multi-account switcher |
-| 6 | [wifi-security-toolkit](https://github.com/1837620622/wifi-security-toolkit) | **29** | WPA research + hashcat pipeline |
-| 7 | [fund-cn](https://github.com/1837620622/fund-cn) | **23** | CN fund realtime valuation (Workers) |
-| 8 | [free-vps](https://github.com/1837620622/free-vps) | **21** | Free VPS / container platforms guide |
-| 9 | [Gold-Price-Quantitative-Monitoring-System](https://github.com/1837620622/Gold-Price-Quantitative-Monitoring-System) | **12** | Gold quant dashboard + AI |
-| 10 | [codex-red-team-prompt](https://github.com/1837620622/codex-red-team-prompt) | **11** | Codex system prompt injection tool |
-| 11 | [windsurf-unlimited-cknb](https://github.com/1837620622/windsurf-unlimited-cknb) | **9** | Windsurf CKNB toolkit |
-| 12 | [codex-inviter](https://github.com/1837620622/codex-inviter) | **7** | One-click ChatGPT Codex inviter |
-| 13 | [free-vpn-cknb](https://github.com/1837620622/free-vpn-cknb) | **0** | 免费 VPN 情报站 · 17 源聚合 · 3D 页面 |
+| Project | Star | 说明 |
+|---------|:----:|------|
+| [cloudflare-bypass-2026](https://github.com/1837620622/cloudflare-bypass-2026) | <img src="https://img.shields.io/github/stars/1837620622/cloudflare-bypass-2026?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 绕过 Cloudflare Turnstile 人机验证的工具集 |
+| [chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox) | <img src="https://img.shields.io/github/stars/1837620622/chatgpt-specimen-toolbox?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | ChatGPT 登录态在 9 种格式间互转，油猴脚本加浏览器扩展 |
+| [windsurf-account-manager-releases](https://github.com/1837620622/windsurf-account-manager-releases) | <img src="https://img.shields.io/github/stars/1837620622/windsurf-account-manager-releases?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | Windsurf 多账号桌面端，自动续 token、看额度 |
+| [cto-new-openai-proxy](https://github.com/1837620622/cto-new-openai-proxy) | <img src="https://img.shields.io/github/stars/1837620622/cto-new-openai-proxy?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 兼容 OpenAI / Anthropic 的反代，账号池轮询带面板 |
+| [winsurf-switch](https://github.com/1837620622/winsurf-switch) | <img src="https://img.shields.io/github/stars/1837620622/winsurf-switch?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | Windsurf 多账号一键切换 |
+| [wifi-security-toolkit](https://github.com/1837620622/wifi-security-toolkit) | <img src="https://img.shields.io/github/stars/1837620622/wifi-security-toolkit?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | WPA 抓包加 hashcat 跑字典，附 2GB 中文优化字典 |
+| [fund-cn](https://github.com/1837620622/fund-cn) | <img src="https://img.shields.io/github/stars/1837620622/fund-cn?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 国内基金实时估值，跑在 Cloudflare Workers |
+| [free-vps](https://github.com/1837620622/free-vps) | <img src="https://img.shields.io/github/stars/1837620622/free-vps?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 免费 VPS 和容器平台整理 |
+| [Gold-Price-Quantitative-Monitoring-System](https://github.com/1837620622/Gold-Price-Quantitative-Monitoring-System) | <img src="https://img.shields.io/github/stars/1837620622/Gold-Price-Quantitative-Monitoring-System?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 黄金量化监控面板，接 AI 做分析 |
+| [codex-red-team-prompt](https://github.com/1837620622/codex-red-team-prompt) | <img src="https://img.shields.io/github/stars/1837620622/codex-red-team-prompt?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 给 Codex 注入自定义系统提示词，红队研究用 |
+| [windsurf-unlimited-cknb](https://github.com/1837620622/windsurf-unlimited-cknb) | <img src="https://img.shields.io/github/stars/1837620622/windsurf-unlimited-cknb?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | Windsurf 破解版工具包 |
+| [codex-inviter](https://github.com/1837620622/codex-inviter) | <img src="https://img.shields.io/github/stars/1837620622/codex-inviter?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 一键发 ChatGPT Codex 邀请的网页 |
+| [free-vpn-cknb](https://github.com/1837620622/free-vpn-cknb) | <img src="https://img.shields.io/github/stars/1837620622/free-vpn-cknb?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="s"/> | 免费 VPN 情报站，17 个源聚合，3D 页面 |
 
 ---
 
