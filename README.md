@@ -16,30 +16,21 @@
 
 ### **传康Kk** · 万能程序员
 
-`Full Stack` · `AI Tooling` · `Security R&D` · `Open Source`
-
 <br/>
 
-<a href="https://www.chuankangkk.top">
-  <img src="https://img.shields.io/badge/Website-chuankangkk.top-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/>
-</a>
-<a href="mailto:2040168455@qq.com">
-  <img src="https://img.shields.io/badge/Email-2040168455%40qq.com-A371F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-</a>
-<img src="https://img.shields.io/badge/WeChat-1837620622-3FB950?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117" alt="WeChat"/>
-<img src="https://img.shields.io/badge/Bilibili-万能程序员-FB7299?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=0D1117" alt="Bilibili"/>
-<img src="https://komarev.com/ghpvc/?username=1837620622&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/-Full_Stack-00F0FF?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/-AI_Tooling-A371F7?style=flat-square" alt="AI Tooling"/>
+<img src="https://img.shields.io/badge/-Security_R%26D-FB7299?style=flat-square" alt="Security R&D"/>
+<img src="https://img.shields.io/badge/-Open_Source-3FB950?style=flat-square" alt="Open Source"/>
 
-<br/>
+<br/><br/>
 
-<sub>
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#github-metrics">Metrics</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#online-services">Services</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
-</sub>
+<a href="#about"><img src="https://img.shields.io/badge/-About-00F0FF?style=flat-square" alt="About"/></a>
+<a href="#github-metrics"><img src="https://img.shields.io/badge/-Metrics-A371F7?style=flat-square" alt="Metrics"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/-Stack-3FB950?style=flat-square" alt="Stack"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/-Projects-FB7299?style=flat-square" alt="Projects"/></a>
+<a href="#online-services"><img src="https://img.shields.io/badge/-Services-D29922?style=flat-square" alt="Services"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/-Contact-00F0FF?style=flat-square" alt="Contact"/></a>
 
 </div>
 
@@ -170,15 +161,17 @@ motto: 技术可以让生活更美好
 
 ### <img src="https://skillicons.dev/icons?i=cloudflare" width="22" align="center"/> Online Services
 
-| Service | URL |
-|---------|-----|
-| Portal | [www.chuankangkk.top](https://www.chuankangkk.top) |
-| CKTV | [tv.chuankangkk.top](https://tv.chuankangkk.top) |
-| Music | [ckmusic.chuankangkk.top](https://ckmusic.chuankangkk.top) |
-| Image Host | [ck-img.chuankangkk.top](https://ck-img.chuankangkk.top) |
-| Cloud Games | [game.chuankangkk.top](https://game.chuankangkk.top) |
-| Gold Monitor | [gold.chuankangkk.top](https://gold.chuankangkk.top) |
-| VPN 情报站 | [free-vpn.chuankangkk.top](https://free-vpn.chuankangkk.top) |
+<div align="center">
+
+<a href="https://www.chuankangkk.top"><img src="https://img.shields.io/badge/Portal-www.chuankangkk.top-00F0FF?style=flat-square&labelColor=0D1117" alt="Portal"/></a>
+<a href="https://tv.chuankangkk.top"><img src="https://img.shields.io/badge/CKTV-tv.chuankangkk.top-A371F7?style=flat-square&labelColor=0D1117" alt="CKTV"/></a>
+<a href="https://ckmusic.chuankangkk.top"><img src="https://img.shields.io/badge/Music-ckmusic.chuankangkk.top-3FB950?style=flat-square&labelColor=0D1117" alt="Music"/></a>
+<a href="https://ck-img.chuankangkk.top"><img src="https://img.shields.io/badge/Image_Host-ck--img.chuankangkk.top-FB7299?style=flat-square&labelColor=0D1117" alt="Image Host"/></a>
+<a href="https://game.chuankangkk.top"><img src="https://img.shields.io/badge/Cloud_Games-game.chuankangkk.top-D29922?style=flat-square&labelColor=0D1117" alt="Cloud Games"/></a>
+<a href="https://gold.chuankangkk.top"><img src="https://img.shields.io/badge/Gold_Monitor-gold.chuankangkk.top-00F0FF?style=flat-square&labelColor=0D1117" alt="Gold Monitor"/></a>
+<a href="https://free-vpn.chuankangkk.top"><img src="https://img.shields.io/badge/VPN_情报站-free--vpn.chuankangkk.top-A371F7?style=flat-square&labelColor=0D1117" alt="VPN 情报站"/></a>
+
+</div>
 
 ---
 
@@ -186,14 +179,20 @@ motto: 技术可以让生活更美好
 
 <div align="center">
 
-| | |
-|--|--|
-| Website | [chuankangkk.top](https://www.chuankangkk.top) |
-| Email | `2040168455@qq.com` |
-| WeChat | `1837620622` |
-| B站 / 咸鱼 | 万能程序员 |
+有项目合作或问题咨询，欢迎随时联系
 
-<br/>
+<br/><br/>
+
+<a href="https://www.chuankangkk.top"><img src="https://img.shields.io/badge/Website-chuankangkk.top-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/></a>
+<a href="mailto:2040168455@qq.com"><img src="https://img.shields.io/badge/Email-2040168455%40qq.com-A371F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<img src="https://img.shields.io/badge/WeChat-1837620622-3FB950?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117" alt="WeChat"/>
+<img src="https://img.shields.io/badge/Bilibili-万能程序员-FB7299?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=0D1117" alt="Bilibili"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=1837620622&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
 
 <sub>技术可以让生活更美好</sub>
 
