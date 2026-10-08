@@ -1,13 +1,27 @@
 <!--
   Profile · 1837620622 · 传康Kk
-  Visuals are self-hosted in assets/ (SVG), so they never depend on third-party image services.
-  External requests: shields.io (badges) and komarev.com (profile views) only.
-  Numbers in assets/stats.svg are a snapshot taken 2026-10-08.
+  Verified working CDNs (2026-07):
+  - github-readme-stats.zohan.tech       → stats / langs / pin
+  - streak-stats.demolab.com             → streak
+  - readme-typing-svg.demolab.com        → typing header
+  - skillicons.dev                       → stack icons
+  - img.shields.io / komarev.com         → badges
+  Dead / rate-limited (do NOT use — camo caches the red ERROR page):
+  vercel stats app, trophy, snake, activity-graph, summary-cards
 -->
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="传康KK · 万能程序员"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Chuankang+KK;%E4%B8%87%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%91%98;Full+Stack+%C2%B7+AI+Tools+%C2%B7+Security" alt="Hi, I'm Chuankang KK — 万能程序员"/>
+
+### **传康Kk** · 万能程序员
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Full_Stack-00F0FF?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/-AI_Tooling-A371F7?style=flat-square" alt="AI Tooling"/>
+<img src="https://img.shields.io/badge/-Security_R%26D-FB7299?style=flat-square" alt="Security R&D"/>
+<img src="https://img.shields.io/badge/-Open_Source-3FB950?style=flat-square" alt="Open Source"/>
 
 <br/><br/>
 
@@ -22,48 +36,110 @@
 
 <br/>
 
-<a name="about"></a>
-<img src="assets/headers/about.svg" width="100%" alt="01 · About Me"/>
+---
 
-<img src="assets/about.svg" width="100%" alt="about.yaml: 传康KK profile card"/>
+### <img src="https://skillicons.dev/icons?i=github" width="22" align="center"/> About
 
-<br/><br/>
+```yaml
+name: Chuankang KK
+alias: 万能程序员
+focus: [Full Stack, AI Agents, Security Tooling, Quant Dashboards]
+stack: [Python, TypeScript, React/Vue, Cloudflare, Docker]
+contact:
+  web: https://www.chuankangkk.top
+  email: 2040168455@qq.com
+  wechat: "1837620622"
+motto: 技术可以让生活更美好
+```
 
-<a name="github-metrics"></a>
-<img src="assets/headers/metrics.svg" width="100%" alt="02 · GitHub Metrics"/>
+---
 
-<img src="assets/stats.svg" width="100%" alt="67 followers, 70 public repos, 8+ years on GitHub, 17 projects, 271+ API endpoints, 80+ mini games"/>
-
-<br/><br/>
-
-<a name="tech-stack"></a>
-<img src="assets/headers/stack.svg" width="100%" alt="03 · Tech Stack"/>
-
-<img src="assets/stack.svg" width="100%" alt="Languages, frameworks and infrastructure tools"/>
-
-<br/><br/>
-
-<a name="featured-projects"></a>
-<img src="assets/headers/projects.svg" width="100%" alt="04 · Featured Projects"/>
+### <img src="https://skillicons.dev/icons?i=workers" width="22" align="center"/> GitHub Metrics
 
 <div align="center">
 
-<a href="https://github.com/1837620622/cloudflare-bypass-2026"><img src="assets/projects/cloudflare-bypass-2026.svg" width="400" alt="cloudflare-bypass-2026"/></a>
-<a href="https://github.com/1837620622/chatgpt-specimen-toolbox"><img src="assets/projects/chatgpt-specimen-toolbox.svg" width="400" alt="chatgpt-specimen-toolbox"/></a>
+<img height="172" src="https://github-readme-stats.zohan.tech/api?username=1837620622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub stats"/>
+<img height="172" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=1837620622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" alt="Top languages"/>
 
-<a href="https://github.com/1837620622/windsurf-account-manager-releases"><img src="assets/projects/windsurf-account-manager-releases.svg" width="400" alt="windsurf-account-manager-releases"/></a>
-<a href="https://github.com/1837620622/cto-new-openai-proxy"><img src="assets/projects/cto-new-openai-proxy.svg" width="400" alt="cto-new-openai-proxy"/></a>
+<br/>
 
-<a href="https://github.com/1837620622/winsurf-switch"><img src="assets/projects/winsurf-switch.svg" width="400" alt="winsurf-switch"/></a>
-<a href="https://github.com/1837620622/wifi-security-toolkit"><img src="assets/projects/wifi-security-toolkit.svg" width="400" alt="wifi-security-toolkit"/></a>
+<img src="https://streak-stats.demolab.com?user=1837620622&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=A371F7&currStreakLabel=00F0FF" alt="Contribution streak"/>
 
-<a href="https://github.com/1837620622/fund-cn"><img src="assets/projects/fund-cn.svg" width="400" alt="fund-cn"/></a>
-<a href="https://github.com/1837620622/free-vpn-cknb"><img src="assets/projects/free-vpn-cknb.svg" width="400" alt="free-vpn-cknb"/></a>
+<br/><br/>
+
+<sub>Contribution Activity · last 6 months</sub>
+<br/>
+<img src="https://ghchart.rshah.org/00F0FF/1837620622" alt="Contribution chart" width="720"/>
 
 </div>
 
-<details>
-<summary><b>All projects (13)</b></summary>
+---
+
+### <img src="https://skillicons.dev/icons?i=linux" width="22" align="center"/> Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,go,rust,c&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,fastapi,django,flask,threejs,tailwind,vite,electron&theme=dark" alt="Frameworks and libraries"/>
+
+<br/><br/>
+
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,postgres,mysql,redis,mongodb,workers,cloudflare,github,vscode&theme=dark" alt="Infrastructure and tools"/>
+
+</div>
+
+---
+
+### <img src="https://skillicons.dev/icons?i=github" width="22" align="center"/> Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/1837620622/cloudflare-bypass-2026">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=cloudflare-bypass-2026&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="cloudflare-bypass-2026"/>
+</a>
+<a href="https://github.com/1837620622/chatgpt-specimen-toolbox">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=chatgpt-specimen-toolbox&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="chatgpt-specimen-toolbox"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/1837620622/windsurf-account-manager-releases">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=windsurf-account-manager-releases&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="windsurf-account-manager-releases"/>
+</a>
+<a href="https://github.com/1837620622/cto-new-openai-proxy">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=cto-new-openai-proxy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="cto-new-openai-proxy"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/1837620622/winsurf-switch">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=winsurf-switch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="winsurf-switch"/>
+</a>
+<a href="https://github.com/1837620622/wifi-security-toolkit">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=wifi-security-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="wifi-security-toolkit"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/1837620622/fund-cn">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=fund-cn&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="fund-cn"/>
+</a>
+<a href="https://github.com/1837620622/free-vpn-cknb">
+  <img src="https://github-readme-stats.zohan.tech/api/pin/?username=1837620622&repo=free-vpn-cknb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9" height="118" alt="free-vpn-cknb"/>
+</a>
+
+</div>
+
+<br/>
 
 | Project | Stars | 说明 |
 |---------|:-----:|------|
@@ -81,12 +157,9 @@
 | [codex-inviter](https://github.com/1837620622/codex-inviter) | <img src="https://img.shields.io/github/stars/1837620622/codex-inviter?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="codex-inviter stars"/> | 一键发 ChatGPT Codex 邀请的网页 |
 | [free-vpn-cknb](https://github.com/1837620622/free-vpn-cknb) | <img src="https://img.shields.io/github/stars/1837620622/free-vpn-cknb?style=flat-square&logo=github&logoColor=white&label=&color=00F0FF&labelColor=161B22" alt="free-vpn-cknb stars"/> | 免费 VPN 情报站，17 个源聚合，3D 页面 |
 
-</details>
+---
 
-<br/>
-
-<a name="online-services"></a>
-<img src="assets/headers/services.svg" width="100%" alt="05 · Online Services"/>
+### <img src="https://skillicons.dev/icons?i=cloudflare" width="22" align="center"/> Online Services
 
 <div align="center">
 
@@ -100,10 +173,9 @@
 
 </div>
 
-<br/>
+---
 
-<a name="contact"></a>
-<img src="assets/headers/contact.svg" width="100%" alt="06 · Contact"/>
+### <img src="https://skillicons.dev/icons?i=gmail" width="22" align="center"/> Contact
 
 <div align="center">
 
@@ -116,14 +188,12 @@
 <img src="https://img.shields.io/badge/WeChat-1837620622-3FB950?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117" alt="WeChat"/>
 <img src="https://img.shields.io/badge/Bilibili-万能程序员-FB7299?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=0D1117" alt="Bilibili"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=1837620622&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile views"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="技术可以让生活更美好"/>
-
-<img src="https://komarev.com/ghpvc/?username=1837620622&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile views"/>
+<sub>技术可以让生活更美好</sub>
 
 </div>
